@@ -1,4 +1,4 @@
-package com.deviceinsight.kafka.health;
+package com.github.maniekes.kafka;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;
 

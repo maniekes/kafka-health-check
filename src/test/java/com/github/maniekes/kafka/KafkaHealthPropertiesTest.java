@@ -1,4 +1,4 @@
-package com.deviceinsight.kafka.health;
+package com.github.maniekes.kafka;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.params.provider.Arguments.arguments;

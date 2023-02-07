@@ -7,6 +7,9 @@ image:{img-build-status}[Build Status Badge,link={uri-build-status}]
 
 This library provides a kafka health check for spring boot actuator.
 
+== Origin
+this repo is copied from https://github.com/deviceinsight/kafka-health-check since it was inactive
+
 == Usage
 
 Add the following dependency to your `pom.xml`
